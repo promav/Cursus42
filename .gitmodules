@@ -1,0 +1,24 @@
+[submodule "push_swap"]
+	path = push_swap
+	url = git@github.com:promav/push_swap.git
+[submodule "so_long"]
+	path = so_long
+	url = git@github.com:promav/so_long.git
+[submodule "philosophers"]
+	path = philosophers
+	url = git@github.com:promav/philosophers.git
+[submodule "pipex"]
+	path = pipex
+	url = git@github.com:promav/pipex.git
+[submodule "Get-Next-Line"]
+	path = Get-Next-Line
+	url = git@github.com:promav/Get-Next-Line.git
+[submodule "Rank02"]
+	path = Rank02
+	url = git@github.com:promav/Rank02
+[submodule "Printf"]
+	path = Printf
+	url = git@github.com:promav/Printf
+[submodule "Libft"]
+	path = Libft
+	url = git@github.com:promav/Libft
