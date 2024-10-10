@@ -19,3 +19,6 @@
 [submodule "Libft"]
 	path = Libft
 	url = git@github.com:promav/Libft
+[submodule "philosophers_new"]
+	path = philosophers_new
+	url = https://github.com/promav/philosophers.git
